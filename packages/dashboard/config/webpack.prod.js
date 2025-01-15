@@ -7,7 +7,7 @@ const prodConfig = {
   mode: 'production',
   output: {
     filename: '[name].[contenthash].js',
-    publicPath: '/dashboard/latest/',
+    publicPath: 'https://d253sovz0qxw7a.cloudfront.net/dashboard/latest/',
   },
   plugins: [
     new ModuleFederationPlugin({
