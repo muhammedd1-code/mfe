@@ -146,7 +146,7 @@
           </li>
           <li>
             <button class="p-link">
-              <span class="name">Jason Dourne</span>
+              <span class="name">Jason test Dourne</span>
               <span class="email">jason@primevue.com</span>
             </button>
           </li>
